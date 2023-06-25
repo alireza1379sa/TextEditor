@@ -1,0 +1,17 @@
+C:\Users\hhhh\source\Shop\ReadAndWrite\ReadAndWrite\bin\Debug\net7.0-windows\ReadAndWrite.exe
+C:\Users\hhhh\source\Shop\ReadAndWrite\ReadAndWrite\bin\Debug\net7.0-windows\ReadAndWrite.deps.json
+C:\Users\hhhh\source\Shop\ReadAndWrite\ReadAndWrite\bin\Debug\net7.0-windows\ReadAndWrite.runtimeconfig.json
+C:\Users\hhhh\source\Shop\ReadAndWrite\ReadAndWrite\bin\Debug\net7.0-windows\ReadAndWrite.dll
+C:\Users\hhhh\source\Shop\ReadAndWrite\ReadAndWrite\bin\Debug\net7.0-windows\ReadAndWrite.pdb
+C:\Users\hhhh\source\Shop\ReadAndWrite\ReadAndWrite\obj\Debug\net7.0-windows\ReadAndWrite.csproj.AssemblyReference.cache
+C:\Users\hhhh\source\Shop\ReadAndWrite\ReadAndWrite\obj\Debug\net7.0-windows\ReadAndWrite.Form1.resources
+C:\Users\hhhh\source\Shop\ReadAndWrite\ReadAndWrite\obj\Debug\net7.0-windows\ReadAndWrite.csproj.GenerateResource.cache
+C:\Users\hhhh\source\Shop\ReadAndWrite\ReadAndWrite\obj\Debug\net7.0-windows\ReadAndWrite.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hhhh\source\Shop\ReadAndWrite\ReadAndWrite\obj\Debug\net7.0-windows\ReadAndWrite.AssemblyInfoInputs.cache
+C:\Users\hhhh\source\Shop\ReadAndWrite\ReadAndWrite\obj\Debug\net7.0-windows\ReadAndWrite.AssemblyInfo.cs
+C:\Users\hhhh\source\Shop\ReadAndWrite\ReadAndWrite\obj\Debug\net7.0-windows\ReadAndWrite.csproj.CoreCompileInputs.cache
+C:\Users\hhhh\source\Shop\ReadAndWrite\ReadAndWrite\obj\Debug\net7.0-windows\ReadAndWrite.dll
+C:\Users\hhhh\source\Shop\ReadAndWrite\ReadAndWrite\obj\Debug\net7.0-windows\refint\ReadAndWrite.dll
+C:\Users\hhhh\source\Shop\ReadAndWrite\ReadAndWrite\obj\Debug\net7.0-windows\ReadAndWrite.pdb
+C:\Users\hhhh\source\Shop\ReadAndWrite\ReadAndWrite\obj\Debug\net7.0-windows\ReadAndWrite.genruntimeconfig.cache
+C:\Users\hhhh\source\Shop\ReadAndWrite\ReadAndWrite\obj\Debug\net7.0-windows\ref\ReadAndWrite.dll
